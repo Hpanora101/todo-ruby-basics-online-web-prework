@@ -2,18 +2,18 @@ def division(num1, num2)
 
 num1= 36
 num2= 6
- 
+
 end
 
 def assign_variable(value)
 
 value= Bob
-  
+
 end
 
 def argue (phrase)
   phrase= "I'm always right and you're always wrong"
-  
+
 end
 
 def greeting
